@@ -1,0 +1,48 @@
+# Talk Back
+
+> Talk Back is a team workspace for replying to YouTube comments. Admins assign videos to team members, team members write reply drafts, and an admin reviews and approves every draft before it is posted to YouTube. Nothing reaches YouTube until an admin posts it.
+
+Website: https://talkback.bckofiz.com/
+Sign in: https://talkback.bckofiz.com/login
+
+## What it does
+- Connect a YouTube channel (admin, from Platform Connections). The channel's videos appear under Content.
+- Assign one or many videos to team members, and reassign them at any time. Filter videos by assignee.
+- Team members see only their assigned videos, read the comments and write reply drafts.
+- Every draft goes to the admin's approval queue. The admin can edit it, reject it with a note the author sees, or approve it.
+- The admin posts approved replies to YouTube. Publishing is a manual admin step today; automatic posting is planned for a later release.
+- Two roles: Admin (runs the channel workflow, holds publishing) and User/team member (prepares replies, cannot publish).
+- Also included: recent activity, notifications, search and filters, playlists, notes on rejection.
+
+## How it works (5 steps)
+1. Connect your channel
+2. Assign videos
+3. Draft replies
+4. Review drafts
+5. Post manually
+
+## Who it's for
+Teams that share one YouTube channel's comment section — brands, creators with staff, agencies and community teams — who want several people drafting replies while an admin keeps the final say.
+
+## Platform support
+YouTube only. Other platforms are not available.
+
+## FAQ
+- Can team members post replies to YouTube? No. They write drafts and submit them for review; they don't get direct YouTube publishing access.
+- Are approved replies posted automatically? Not today. An admin posts them manually.
+
+## Pages
+- https://talkback.bckofiz.com/features.html
+- https://talkback.bckofiz.com/how-it-works.html
+- https://talkback.bckofiz.com/roles.html
+- https://talkback.bckofiz.com/use-cases.html
+- https://talkback.bckofiz.com/security.html
+- https://talkback.bckofiz.com/faq.html
+- https://talkback.bckofiz.com/about.html
+- https://talkback.bckofiz.com/blog.html
+
+## Blog
+- How to Run a YouTube Comment Review Workflow With Your Team: https://talkback.bckofiz.com/blog/run-a-youtube-comment-review-workflow.html
+- Why Every Reply Deserves a Second Look Before It Goes Live: https://talkback.bckofiz.com/blog/why-every-reply-needs-a-second-look.html
+- Give Every Video an Owner: Assigning Comments That Actually Get Answered: https://talkback.bckofiz.com/blog/give-every-video-an-owner.html
+- A Five-Point Checklist for Better Reply Drafts: https://talkback.bckofiz.com/blog/checklist-for-better-reply-drafts.html
