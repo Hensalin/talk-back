@@ -49,9 +49,9 @@
     <priority>0.8</priority>
   </url>
   <!-- cms:start -->
-  <url><loc>https://talkback.bckofiz.com/blog/run-a-youtube-comment-review-workflow.html</loc><lastmod>2026-11-18</lastmod></url>
-  <url><loc>https://talkback.bckofiz.com/blog/why-every-reply-needs-a-second-look.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://talkback.bckofiz.com/blog/give-every-video-an-owner.html</loc><lastmod>2026-11-05</lastmod></url>
-  <url><loc>https://talkback.bckofiz.com/blog/checklist-for-better-reply-drafts.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://talkback.bckofiz.com/blog/checklist-for-better-reply-drafts.html</loc></url>
+  <url><loc>https://talkback.bckofiz.com/blog/give-every-video-an-owner.html</loc></url>
+  <url><loc>https://talkback.bckofiz.com/blog/run-a-youtube-comment-review-workflow.html</loc></url>
+  <url><loc>https://talkback.bckofiz.com/blog/why-every-reply-needs-a-second-look.html</loc></url>
   <!-- cms:end -->
 </urlset>
